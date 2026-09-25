@@ -37,7 +37,7 @@ The Vercel project uses the Vite build and `dist` output directory.
 
 ## Course Practice
 
-This project is a practice/lab exercise for **Agentic Software Engineering**, exploring a new way of building software with the assistance of agents. The work follows **The Agentic Build Loop**:
+This project is a practice/lab exercise for my **Agentic Software Engineering I** course, exploring a new way of building software with the assistance of agents. The work follows **The Agentic Build Loop**:
 
 1. Plan with the agent in Plan mode.
 2. Review and save the plan.
